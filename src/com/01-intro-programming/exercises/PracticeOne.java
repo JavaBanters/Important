@@ -33,7 +33,8 @@ class PracticeOne {
                 System.out.println("Double: " + numberD);
 
                 // char
-                char letter = '\u0051';
+                //char letter = '\u0065';
+                char letter = 97; //another example it prints lowercase a
                 System.out.println("Char: " + letter);
             }
         }
