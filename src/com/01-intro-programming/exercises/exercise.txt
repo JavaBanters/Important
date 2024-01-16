@@ -1,0 +1,7 @@
+1. Declare and initialize all the possible primitives in Java and print it
+2. Take two variables and add multiple divide and subtract it
+3. Write a program to convert temperature from C to F
+4. Write a program to find whether a number is even or odd.
+5. Take a number as input and print the multiplication table for it.
+6. Take name as input and print a greeting message for that particular name.
+7. Input currency in NPR and output in USD

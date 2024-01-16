@@ -1,0 +1,10 @@
+1. Write a Java program to print message using a method
+2. Write a Java program to Find area of a circle using class
+3. Write a Java program to Implement default constructor and parameterized constructor.
+   An object should be created with default values using the default constructor and user defined values via the
+   parameterized constructor
+4. Write a Java program to create a class Person with a name and age attribute. Create two instances of this class,
+   Set their attributes using the constructor, and print their name and age using methods
+5. Write a Java program to create a class Dog with a name and breed attribute. Create two instances/objects of this class
+   set their attributes using the constructor and modify the attributes using the setter methods
+   and print the updated values using getter methods
