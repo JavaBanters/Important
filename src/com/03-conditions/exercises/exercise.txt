@@ -1,0 +1,11 @@
+1. Write a Java Program to demonstrate the use of if else statement.
+2. Write a program to find whether a number is even or odd.
+3. Write a program to find whether a number is even or odd using ternary operator.
+4. Write a Java Program to demonstrate the use of If else-if ladder.
+   It is a program of grading system for fail, D grade, C grade, B grade, A grade.
+   If marks is less than 40(exclusive) then the student should fail.
+   If marks lies between 40(inclusive) and 50(exclusive) then the student should get D grade
+   If marks lies between 50(inclusive) and 60(exclusive) then the student should get C grade
+   If marks lies between 60(inclusive) and 80(exclusive) then the student should get B grade
+   If marks lies between 80(inclusive) and 100(inclusive) then the student should get A grade
+5. Write a program to check whether a number is positive or negative.
