@@ -1,0 +1,10 @@
+class LocalVariableExample {
+    public static void main(String[] args)
+    {
+        // Declared a Local Variable
+        int var = 12;
+
+        // This variable is local to this main method only
+        System.out.println("Local Variable: " + var);
+    }
+}

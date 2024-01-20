@@ -1,0 +1,7 @@
+1. Write a for and while and do while loop to print out your name 10 times.
+2. Print out all the even and odd numbers from 1 to 100;
+3. Write a program to calculate the sum of first 10 numbers.
+4. Write a program to print all alphabets from a to z.
+5. Write a java program to calculate the factorial value of given number. 5 = 5 * 4 * 3 * 2 * 1 = 120
+6. Write a java program to print prime numbers from 1 to 100.
+
