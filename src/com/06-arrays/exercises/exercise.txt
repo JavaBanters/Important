@@ -1,0 +1,7 @@
+1. Write a program to declare a single dimension array and traverse using for loop, enhanced for loop, while and do while loop.
+2. Write a program to declare a 2D array and traverse using while loop
+3. Write a program to create an array of Objects , traverse and print the details of the object overriding the toString method of the Object class
+4. Declare and initialise an array of 10 elements and find the largest number in it.
+5. Declare and initialise an array of 10 elements and find the smallest number in it.
+6. Declare and initialise an array of 10 elements and find the 2nd largest number in it.
+7. Declare and initialise an array of 10 elements and find the 2nd smallest number in it.

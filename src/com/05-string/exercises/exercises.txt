@@ -1,0 +1,13 @@
+1. Create a string and explore all the possible methods of the String class
+2. Convert a string to a character array and print out each characters using a for loop
+3. Convert a string to a character array and print out each characters using a for loop in reverse order.
+4. Convert a string to a StringBuilder and StringBuffer type and explore its provided methods.
+5. Using string tokernizer print all the words from the string "Hi I am a Java Programmer".
+    Output should be like -> Hi
+                             I
+                             am
+                             a
+                             Java
+                             Programmer
+6. Count a number of characters 'a' from the String "Java Banters".
+7.
